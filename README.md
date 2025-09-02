@@ -84,3 +84,16 @@ PHP                      11 repos            ██░░░░░░░░░�
 
  Last Updated on 01/09/2025 03:41:18 UTC
 <!--END_SECTION:waka-->
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/KhanMaytok/khanmaytok/41673ec6f6257711002bc37f23c9fd6aabfcfdd7/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/KhanMaytok/khanmaytok/41673ec6f6257711002bc37f23c9fd6aabfcfdd7/images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/KhanMaytok/khanmaytok/41673ec6f6257711002bc37f23c9fd6aabfcfdd7/images/breakout-light.svg" />
+</picture>
