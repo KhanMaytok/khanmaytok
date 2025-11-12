@@ -82,16 +82,3 @@ Vue                      15 repos            ██░░░░░░░░░�
 
  Last Updated on 10/11/2025 03:41:30 UTC
 <!--END_SECTION:waka-->
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/KhanMaytok/khanmaytok/41673ec6f6257711002bc37f23c9fd6aabfcfdd7/images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/KhanMaytok/khanmaytok/41673ec6f6257711002bc37f23c9fd6aabfcfdd7/images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/KhanMaytok/khanmaytok/41673ec6f6257711002bc37f23c9fd6aabfcfdd7/images/breakout-light.svg" />
-</picture>
