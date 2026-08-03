@@ -11,31 +11,31 @@
 
 > 📦 4.5 MB Used in GitHub's Storage 
  > 
-> 🏆 2,098 Contributions in the Year 2026
+> 🏆 2,124 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 248 Public Repositories 
+> 📜 249 Public Repositories 
  > 
 > 🔑 81 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9839 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-🌆 Daytime                21621 commits       █████████░░░░░░░░░░░░░░░░   34.58 % 
-🌃 Evening                22961 commits       █████████░░░░░░░░░░░░░░░░   36.72 % 
-🌙 Night                  8108 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+🌞 Morning                9848 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+🌆 Daytime                21624 commits       █████████░░░░░░░░░░░░░░░░   34.57 % 
+🌃 Evening                22963 commits       █████████░░░░░░░░░░░░░░░░   36.71 % 
+🌙 Night                  8112 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   10211 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
 Tuesday                  10470 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Wednesday                9659 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Thursday                 9647 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Friday                   10058 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Saturday                 6856 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Wednesday                9659 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Thursday                 9647 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Friday                   10061 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Saturday                 6871 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
 Sunday                   5628 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 ```
 
@@ -46,55 +46,55 @@ Sunday                   5628 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Lima
 
 💬 Programming Languages: 
-Markdown                 1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-Python                   1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Other                    48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-JavaScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Vue                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Markdown                 1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   33.82 % 
+Python                   1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+Vue                      49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+TypeScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gauss                    1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-print-ticket             1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
-narrator                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-tata                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-persona                  46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+narrator                 1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+tata                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+persona                  46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+alquilape_api            40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+athelstan                40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 
 💻 Operating System: 
-Windows                  8 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 13 mins (77.44%)
+⏱ AI Coding Time: 3 hrs 38 mins (61.68%)
 
-✍️ 5,736 lines written by AI, 65 lines written by hand (98.88% AI-written)
+✍️ 927 lines written by AI, 42 lines written by hand (95.67% AI-written)
 
-🔤 68,676,819 Input Tokens, 270,268 Output Tokens
+🔤 38,711,028 Input Tokens, 141,874 Output Tokens
 
-💵 $364.52 Estimated AI Cost This Week
+💵 $211.93 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 90 AI Prompts
+🧠 15 AI Sessions, 55 AI Prompts
 
-Deepseek                 4,672 lines         ████████████████████░░░░░   79.47 % 
-GPT                      1,207 lines         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+GPT                      1,026 lines         ███████████████████████░░   91.53 % 
+Deepseek                 95 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.88% of written lines came from AI
-📄 Detailed Prompter — average 708 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.79% of changed lines were hand-edited
+🤖 AI-Driven — 95.67% of written lines came from AI
+📄 Detailed Prompter — average 1,385 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 6.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               27 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Java                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+TypeScript               27 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Java                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 Astro                    3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
@@ -107,5 +107,5 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanMaytok/KhanMaytok/master/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 06:11:19 UTC
+ Last Updated on 03/08/2026 10:14:38 UTC
 <!--END_SECTION:waka-->
